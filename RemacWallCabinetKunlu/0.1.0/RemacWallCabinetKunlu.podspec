@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 20200518-SDK移除支付相关的接口
                        DESC
 
-  s.homepage         = 'http://10.18.69.218/linrj2/RemacWallCabinetKunlu'
+  s.homepage         = 'https://github.com/Solskjaer0418/RemacWallCabinetKunlu'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'linrj2' => 'linrj2@midea.com' }
-  s.source           = { :git => 'http://10.18.69.218/linrj2/RemacWallCabinetKunlu.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Solskjaer0418/RemacWallCabinetKunlu.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
